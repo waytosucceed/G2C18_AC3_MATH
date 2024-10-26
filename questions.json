@@ -1,0 +1,122 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Anna started at 3 on her number line. She hopped forward 5 spaces. What number did she land on?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 3,
+        "secondImg": "./images/1.png"
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Lucas began at 7. He hopped back 4 spaces. What number is he on now?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "correct": 1,
+        "secondImg": "./images/2.png"
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Kate was on 10 and decided to hop back 3 spaces. Where did she land?",
+        "options": [
+            "7",
+            "8",
+            "6",
+            "5"
+        ],
+        "correct": 0,
+        "secondImg": "./images/3.png"
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Lucas jumped forward 8 spaces from 0. What number did he reach?",
+        "options": [
+            "7",
+            "9",
+            "8",
+            "6"
+        ],
+        "correct": 2,
+        "secondImg": "./images/4.png"
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Anna hopped forward from 19 and moved 6 spaces. What number did she reach?",
+        "options": [
+            "23",
+            "25",
+            "24",
+            "26"
+        ],
+        "correct": 1,
+        "secondImg": "./images/5.png"
+    },
+    {
+        "questionNo": "Q6",
+        "question": "Lucas was on 29 and wanted to hop back 5 spaces. What number is he on now?",
+        "options": [
+            "26",
+            "27",
+            "25",
+            "24"
+        ],
+        "correct": 3,
+        "secondImg": "./images/6.png"
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Kate stood on 22 and hopped forward 7 spaces. What number did she land on?",
+        "options": [
+            "26",
+            "25",
+            "29",
+            "28"
+        ],
+        "correct": 2,
+        "secondImg": "./images/7.png"
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Anna started at 25 and hopped back 3 spaces. Where did she end up?",
+        "options": [
+            "21",
+            "22",
+            "24",
+            "23"
+        ],
+        "correct": 1,
+        "secondImg": "./images/8.png"
+    },
+    {
+        "questionNo": "Q9",
+        "question": "Kate was on 31 and hopped forward 8 spaces. Where is she now?",
+        "options": [
+            "39",
+            "37",
+            "36",
+            "38"
+        ],
+        "correct": 0,
+        "secondImg": "./images/9.png"
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Lucas stood on 39. He hopped back 6. Where is he now?",
+        "options": [
+            "31",
+            "32",
+            "33",
+            "34"
+        ],
+        "correct": 2,
+        "secondImg": "./images/10.png"
+    }
+]
